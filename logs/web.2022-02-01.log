@@ -1,0 +1,4 @@
+2022.02.01 02:05:13 INFO  web[][o.s.p.ProcessEntryPoint] Gracefully stopping process
+2022.02.01 02:05:13 INFO  web[][o.s.s.n.NotificationDaemon] Notification service stopped
+2022.02.01 02:05:13 INFO  web[][o.s.s.p.d.EmbeddedDatabase] Embedded database stopped
+2022.02.01 02:05:13 INFO  web[][o.s.s.app.WebServer] WebServer stopped
